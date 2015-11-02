@@ -1,0 +1,12 @@
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\bin\Debug\ScreenShotSample.exe
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\bin\Debug\ScreenShotSample.pdb
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\ScreenShotSample.csprojResolveAssemblyReference.cache
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\MainWindow.baml
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\Window1.baml
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\MainWindow.g.cs
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\Window1.g.cs
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\App.g.cs
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\ScreenShotSample_MarkupCompile.cache
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\ScreenShotSample.g.resources
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\ScreenShotSample.exe
+C:\Users\mokeev1995\Desktop\ScreenShotSample\ScreenShotSample\obj\Debug\ScreenShotSample.pdb
